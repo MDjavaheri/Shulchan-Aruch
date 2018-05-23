@@ -14,6 +14,7 @@ For each section of Shulchan Aruch, the text file is opened and queries for a se
 
 ### Shulchan Aruch
 Example:
+
 | Shulchan Aruch | Orach Chaim | Yoreh Deah | Even HaEzer | Chodeshen Mishpat | Total |
 |----------------|-------------|------------|-------------|-------------------|-------|
 | Stam veYesh    |             |            |             |                   |       |
