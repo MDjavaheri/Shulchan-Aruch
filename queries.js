@@ -1,4 +1,5 @@
 // Setup
+var hebrew = /[\u0590-\u05fe]/;
 var rama = /הגה [^:]*:/;
 var brackets = /\[[^\]]*\]/;
 var parens = /\([^\)]*\)/;

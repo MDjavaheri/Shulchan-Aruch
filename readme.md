@@ -32,14 +32,5 @@ Parenthetical comments
 
 ## Analysis
 
-## Appendix
-Hebrew chars regex: ```[\u0590-\u05fe]+``` https://stackoverflow.com/questions/25067355/regex-to-match-hebrew-and-english-characters-except-numbers
-Select Rama Haga: ```הגה [^:]*:``` targets 1413/1423 הגה_ instances in Orach Chaim, still need to attack paranetheses. Also not sure how to remove non Haga insertions that aren't by the Shulchan Aruch. This version doesn't distinguish between the two for some reason. Doesn't work with ToratEmmet edition.
-Brackets: ```\[[^\]]*\]```
-Parenthesis: ```\([^\)]*\)```
-
-Other links to have handy
-
-https://notepad-plus-plus.org/community/topic/12368/regex-search-the-nearest-words-at-a-maximum-distance-of-6-words/3
-
-https://www.regular-expressions.info/near.html
+## Tzarich Iyun
+Select Rama Haga: ```הגה [^:]*:``` Not sure how to remove non Haga insertions that aren't by the Shulchan Aruch. This version doesn't distinguish between the two for some reason. Doesn't work with ToratEmmet edition.
