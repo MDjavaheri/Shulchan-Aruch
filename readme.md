@@ -1,12 +1,16 @@
 # Shulchan Aruch Analysis
 
 ## Goal
-To statistically analyze the text of Shulchan Aruch in light of the Klalim. See http://halachipedia.com/index.php?title=Shulchan_Aruch for a basic treatment of guidelines for reading Shulchan Aruch.
-
 Provides:
 * Raw statistics
 * Allows querying your own regex
-* Interactive queires - run a query and see all the resulting Simanim/Seifim
+* Interactive queires - run a query and see all the resulting locations referenced
+
+To statistically analyze the text of Shulchan Aruch in light of the rules (Klalim) of understanding his articulation. For example, in a "Stam veYesh" - a ruling in which the first opinion is presented anonymously and then a second one is presented with "Yesh Omrim" ("There are those who say") - the Halacha is generally understood to follow the former, "Stam" opinion. In a "Yesh Omrim veYesh Omrim" - two opinions presented with "There are those who say" - the Halacha follows the latter. There is much literature available regarding these rules and their exceptions, so it would be valuable to know how often they occur and where. Therefore, the goal is to produce an accurate count of occurences for a number of articulations and references to where they appear.
+
+See http://halachipedia.com/index.php?title=Shulchan_Aruch for a basic treatment of guidelines for reading Shulchan Aruch.
+
+
 ## Basic Usage/Behavior
 
 For each section of Shulchan Aruch, the text file is opened and queries for a series of regexes. Counts of occurrences for each query are logged to the console.
@@ -41,7 +45,6 @@ beMedinosElu: 1
 yeshLeHistapek: 13
 rambam: 32
 rosh: 20
-
 ```
 ## Next Steps
 * Clean up Yoreh Deah data
