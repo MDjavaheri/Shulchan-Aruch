@@ -7,15 +7,15 @@ Provides:
 * Raw statistics
 * Allows querying your own regex
 * Interactive queires - run a query and see all the resulting Simanim/Seifim
+## Basic Usage/Behavior
+
+For each section of Shulchan Aruch, the text file is opened and queries for a series of regexes. Counts of occurrences for each query are logged to the console.
 ## Raw Statistics
+
 ### Shulchan Aruch
-#### Leshonot
-#### Rishonim Mentioned by Name
+
 
 ### Rama
-Hagahs
-
-Parenthetical comments
 
 ## Analysis
 
