@@ -30,4 +30,4 @@ var yeshLeHistapek = /יש להסתפק/g;
 var rambam = /רמב"ם/g;
 var rosh = /רא"ש/g;
 
-const query = (text, regex) => {(text.match(veYeshOmrimStart)|| []).length};
+const query = (text, regex) => {(text.match(regex)|| []).length};
