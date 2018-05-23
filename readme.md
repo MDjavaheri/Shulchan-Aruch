@@ -13,7 +13,18 @@ For each section of Shulchan Aruch, the text file is opened and queries for a se
 ## Raw Statistics
 
 ### Shulchan Aruch
-
+Example:
+| Shulchan Aruch | Orach Chaim | Yoreh Deah | Even HaEzer | Chodeshen Mishpat | Total |
+|----------------|-------------|------------|-------------|-------------------|-------|
+| Stam veYesh    |             |            |             |                   |       |
+| Yesh veYesh    |             |            |             |                   |       |
+|                |             |            |             |                   |       |
+|                |             |            |             |                   |       |
+|                |             |            |             |                   |       |
+|                |             |            |             |                   |       |
+|                |             |            |             |                   |       |
+|                |             |            |             |                   |       |
+|                |             |            |             |                   |       |
 
 ### Rama
 
