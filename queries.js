@@ -1,4 +1,5 @@
 var fs = require('fs');
+var gematriya = require('gematriya');
 // Setup for cleaning up raw files
 
 var hebrew = /[\u0590-\u05fe]/g;
@@ -115,6 +116,9 @@ var run = () => {
     fs.readdir('data/modified', function( err, files ) {
         files.forEach(f => {
             fs.readFile(`data/modified/${f}`, 'utf8', (err, data) => {
+                //maybe do all the clean up right here?
+                //  cleanup(data)
+                //  parse(data)
                 let section = f.split('.')[0];
                 console.log(`\n====${section}====\n`);
                 queries.forEach(q => {
