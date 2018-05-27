@@ -1,12 +1,21 @@
 var fs = require('fs');
 // Setup for cleaning up raw files
+
 var hebrew = /[\u0590-\u05fe]/g;
 var rama = /הגה [^:]*:/g;
 var brackets = /\[[^\]]*\]/g;
 var parens = /\([^\)]*\)/g;
 
+//TODO: check for files in raw and run cleanup, save to modified.
+var cleanup = (data) => {
+    data.replace(rama);
+    data.replace(brackets);
+    data.replace(parens);
+    //add siman and seif to each line
+    return data;
+}
 // Shulchan Aruch Queries
-let queries = [
+var queries = [
     {
         description: 'Stam veYesh',
         regex: ''
@@ -106,15 +115,21 @@ var run = () => {
     fs.readdir('data/modified', function( err, files ) {
         files.forEach(f => {
             fs.readFile(`data/modified/${f}`, 'utf8', (err, data) => {
-                console.log(`\n====${f}====\n`);
+                let section = f.split('.')[0];
+                console.log(`\n====${section}====\n`);
                 queries.forEach(q => {
-                    let count = (data.match(q.regex) || []).length
-                    console.log(`${q.description}: ${count}`);
+                    let matches = data.match(q.regex) || [];
+                    q.section = { 
+                        "matches": matches,
+                        "count": matches.length
+                    }
+                    console.log(`${q.description}: ${matches.length}`);
+                    console.log(queries);
                 });
             });
         });
-        console.log();
     });
+    console.log(queries);
 }
 
 run();
