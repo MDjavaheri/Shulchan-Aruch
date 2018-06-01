@@ -1,5 +1,7 @@
-var fs = require('fs');
-var gematriya = require('gematriya');
+"use strict";
+var fs = require("fs");
+var gematriya = require("gematriya");
+
 // Setup for cleaning up raw files
 
 var hebrew = /[\u0590-\u05fe]/g;
@@ -7,13 +9,32 @@ var rama = /הגה [^:]*:/g;
 var brackets = /\[[^\]]*\]/g;
 var parens = /\([^\)]*\)/g;
 
+var simanSeif = (data) => {
+    data = data.split('\n');
+    let siman;
+    let seif;
+    //replace with map?
+    data.forEach((line, index, data) => { 
+        if (/\d+/.test(line)){
+            siman = line.match(/\d+/);
+            seif = 1;
+        }
+        else {
+            data[index] = line.length > 0 ? `${siman}:${seif++} | ${line}` : line;
+        }
+    });
+    return data.join('\n');
+};
+
 //TODO: check for files in raw and run cleanup, save to modified.
-var cleanup = (data) => {
+var cleanup = (fileName, data) => {
     data.replace(rama);
     data.replace(brackets);
     data.replace(parens);
-    //add siman and seif to each line
-    return data;
+    simanSeif(data);
+    fs.appendFile(fileName, data, function (err) {
+        console.log('Saved!');
+    });
 }
 // Shulchan Aruch Queries
 var queries = [
@@ -160,20 +181,21 @@ var run = () => {
     fs.readdir('data/modified', function( err, files ) {
         files.forEach(f => {
             fs.readFile(`data/modified/${f}`, 'utf8', (err, data) => {
-                //maybe do all the clean up right here?
-                //  cleanup(data)
-                //  parse(data)
                 let section = f.split('.')[0];
-                console.log(`\n====${section}====\n`);
+                let output = `\n====${section}====\n`;
                 queries.forEach(q => {
-                    let matches = data.match(q.regex) || [];
-                    q.section = { 
+                    let matches = ((data.match(q.regex) || []).join().match(/\d+:\d+/g)) || [];
+                    q[section] = { 
                         "matches": matches,
-                        "count": matches.length
-                    }
-                    console.log(`${q.description}: ${matches.length}`);
+                    };
+                    output += `${q.description}: ${matches.length}\n`;
+                    console.log(q);
+                });
+                fs.appendFile('output.txt', output, function (err) {
+                    if (err) throw err;
                 });
             });
+
         });
         console.log(queries);
     });

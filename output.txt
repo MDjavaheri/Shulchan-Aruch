@@ -1,0 +1,720 @@
+
+====Even HaEzer====
+Stam veYesh: 174
+Yesh veYesh (beginning, all): 0
+Yesh Omrim veYesh Omrim: 0
+Yesh Omrim veYesh MiSheOmer: 0
+yeshOmrimVeYeshCholek: 1
+VeYeshOmrim (beginning): 0
+Yesh Mi SheOmer (beginning): 0
+VeYesh Mi SheOmer (beginning): 0
+Yesh Mi SheOmer: 120
+Yesh Mi SheMattir (beginning): 0
+Yesh Mi SheMattir: 1
+Yesh Mattirim: 1
+Yesh Mi SheNoheg (beginning): 0
+Yesh Mi SheNoheg: 0
+Yesh Nogahim (beginning): 0
+Yesh Nogahim: 0
+Yesh Cholkim: 14
+Yesh Mi SheCholek: 6
+Yesh Mi SheKatav: 8
+Stam veYesh Mi SheOmer: 73
+Stam veYesh Mi SheCholek: 6
+Stam veYesh Cholkim: 4
+Tzarich Lizaher: 6
+yeshLizaher: 6
+Tov: 8
+beMedinosElu: 2
+yeshLeHistapek: 2
+rambam: 14
+rosh: 9
+Nachon: 0
+Ashkenaz: 1
+Sefarad: 0
+Tzorfat: 0
+Minhag: 21
+
+====Orach Chayim====
+Stam veYesh: 309
+Yesh veYesh (beginning, all): 0
+Yesh Omrim veYesh Omrim: 0
+Yesh Omrim veYesh MiSheOmer: 0
+yeshOmrimVeYeshCholek: 1
+VeYeshOmrim (beginning): 0
+Yesh Mi SheOmer (beginning): 0
+VeYesh Mi SheOmer (beginning): 0
+Yesh Mi SheOmer: 103
+Yesh Mi SheMattir (beginning): 0
+Yesh Mi SheMattir: 8
+Yesh Mattirim: 26
+Yesh Mi SheNoheg (beginning): 0
+Yesh Mi SheNoheg: 1
+Yesh Nogahim (beginning): 0
+Yesh Nogahim: 19
+Yesh Cholkim: 10
+Yesh Mi SheCholek: 3
+Yesh Mi SheKatav: 3
+Stam veYesh Mi SheOmer: 49
+Stam veYesh Mi SheCholek: 3
+Stam veYesh Cholkim: 7
+Tzarich Lizaher: 35
+yeshLizaher: 17
+Tov: 56
+beMedinosElu: 1
+yeshLeHistapek: 13
+rambam: 32
+rosh: 20
+Nachon: 35
+Ashkenaz: 4
+Sefarad: 7
+Tzorfat: 1
+Minhag: 40
+
+====Yoreh Deah====
+Stam veYesh: 0
+Yesh veYesh (beginning, all): 0
+Yesh Omrim veYesh Omrim: 0
+Yesh Omrim veYesh MiSheOmer: 0
+yeshOmrimVeYeshCholek: 1
+VeYeshOmrim (beginning): 0
+Yesh Mi SheOmer (beginning): 0
+VeYesh Mi SheOmer (beginning): 0
+Yesh Mi SheOmer: 0
+Yesh Mi SheMattir (beginning): 0
+Yesh Mi SheMattir: 0
+Yesh Mattirim: 0
+Yesh Mi SheNoheg (beginning): 0
+Yesh Mi SheNoheg: 0
+Yesh Nogahim (beginning): 0
+Yesh Nogahim: 0
+Yesh Cholkim: 0
+Yesh Mi SheCholek: 0
+Yesh Mi SheKatav: 0
+Stam veYesh Mi SheOmer: 0
+Stam veYesh Mi SheCholek: 0
+Stam veYesh Cholkim: 0
+Tzarich Lizaher: 0
+yeshLizaher: 0
+Tov: 0
+beMedinosElu: 0
+yeshLeHistapek: 0
+rambam: 0
+rosh: 0
+Nachon: 0
+Ashkenaz: 0
+Sefarad: 0
+Tzorfat: 0
+Minhag: 0
+
+====Choshen Mishpat====
+Stam veYesh: 280
+Yesh veYesh (beginning, all): 0
+Yesh Omrim veYesh Omrim: 0
+Yesh Omrim veYesh MiSheOmer: 0
+yeshOmrimVeYeshCholek: 1
+VeYeshOmrim (beginning): 0
+Yesh Mi SheOmer (beginning): 0
+VeYesh Mi SheOmer (beginning): 0
+Yesh Mi SheOmer: 193
+Yesh Mi SheMattir (beginning): 0
+Yesh Mi SheMattir: 0
+Yesh Mattirim: 0
+Yesh Mi SheNoheg (beginning): 0
+Yesh Mi SheNoheg: 0
+Yesh Nogahim (beginning): 0
+Yesh Nogahim: 0
+Yesh Cholkim: 31
+Yesh Mi SheCholek: 13
+Yesh Mi SheKatav: 7
+Stam veYesh Mi SheOmer: 90
+Stam veYesh Mi SheCholek: 13
+Stam veYesh Cholkim: 11
+Tzarich Lizaher: 6
+yeshLizaher: 0
+Tov: 4
+beMedinosElu: 0
+yeshLeHistapek: 3
+rambam: 17
+rosh: 4
+Nachon: 2
+Ashkenaz: 0
+Sefarad: 1
+Tzorfat: 0
+Minhag: 61
+
+====Even HaEzer====
+Stam veYesh: 174
+Yesh veYesh (beginning, all): 0
+Yesh Omrim veYesh Omrim: 0
+Yesh Omrim veYesh MiSheOmer: 0
+yeshOmrimVeYeshCholek: 1
+VeYeshOmrim (beginning): 0
+Yesh Mi SheOmer (beginning): 0
+VeYesh Mi SheOmer (beginning): 0
+Yesh Mi SheOmer: 120
+Yesh Mi SheMattir (beginning): 0
+Yesh Mi SheMattir: 1
+Yesh Mattirim: 1
+Yesh Mi SheNoheg (beginning): 0
+Yesh Mi SheNoheg: 0
+Yesh Nogahim (beginning): 0
+Yesh Nogahim: 0
+Yesh Cholkim: 14
+Yesh Mi SheCholek: 6
+Yesh Mi SheKatav: 8
+Stam veYesh Mi SheOmer: 73
+Stam veYesh Mi SheCholek: 6
+Stam veYesh Cholkim: 4
+Tzarich Lizaher: 6
+yeshLizaher: 6
+Tov: 8
+beMedinosElu: 2
+yeshLeHistapek: 2
+rambam: 14
+rosh: 9
+Nachon: 0
+Ashkenaz: 1
+Sefarad: 0
+Tzorfat: 0
+Minhag: 21
+
+====Orach Chayim====
+Stam veYesh: 309
+Yesh veYesh (beginning, all): 0
+Yesh Omrim veYesh Omrim: 0
+Yesh Omrim veYesh MiSheOmer: 0
+yeshOmrimVeYeshCholek: 1
+VeYeshOmrim (beginning): 0
+Yesh Mi SheOmer (beginning): 0
+VeYesh Mi SheOmer (beginning): 0
+Yesh Mi SheOmer: 103
+Yesh Mi SheMattir (beginning): 0
+Yesh Mi SheMattir: 8
+Yesh Mattirim: 26
+Yesh Mi SheNoheg (beginning): 0
+Yesh Mi SheNoheg: 1
+Yesh Nogahim (beginning): 0
+Yesh Nogahim: 19
+Yesh Cholkim: 10
+Yesh Mi SheCholek: 3
+Yesh Mi SheKatav: 3
+Stam veYesh Mi SheOmer: 49
+Stam veYesh Mi SheCholek: 3
+Stam veYesh Cholkim: 7
+Tzarich Lizaher: 35
+yeshLizaher: 17
+Tov: 56
+beMedinosElu: 1
+yeshLeHistapek: 13
+rambam: 32
+rosh: 20
+Nachon: 35
+Ashkenaz: 4
+Sefarad: 7
+Tzorfat: 1
+Minhag: 40
+
+====Choshen Mishpat====
+Stam veYesh: 280
+Yesh veYesh (beginning, all): 0
+Yesh Omrim veYesh Omrim: 0
+Yesh Omrim veYesh MiSheOmer: 0
+yeshOmrimVeYeshCholek: 1
+VeYeshOmrim (beginning): 0
+Yesh Mi SheOmer (beginning): 0
+VeYesh Mi SheOmer (beginning): 0
+Yesh Mi SheOmer: 193
+Yesh Mi SheMattir (beginning): 0
+Yesh Mi SheMattir: 0
+Yesh Mattirim: 0
+Yesh Mi SheNoheg (beginning): 0
+Yesh Mi SheNoheg: 0
+Yesh Nogahim (beginning): 0
+Yesh Nogahim: 0
+Yesh Cholkim: 31
+Yesh Mi SheCholek: 13
+Yesh Mi SheKatav: 7
+Stam veYesh Mi SheOmer: 90
+Stam veYesh Mi SheCholek: 13
+Stam veYesh Cholkim: 11
+Tzarich Lizaher: 6
+yeshLizaher: 0
+Tov: 4
+beMedinosElu: 0
+yeshLeHistapek: 3
+rambam: 17
+rosh: 4
+Nachon: 2
+Ashkenaz: 0
+Sefarad: 1
+Tzorfat: 0
+Minhag: 61
+
+====Yoreh Deah====
+Stam veYesh: 0
+Yesh veYesh (beginning, all): 0
+Yesh Omrim veYesh Omrim: 0
+Yesh Omrim veYesh MiSheOmer: 0
+yeshOmrimVeYeshCholek: 1
+VeYeshOmrim (beginning): 0
+Yesh Mi SheOmer (beginning): 0
+VeYesh Mi SheOmer (beginning): 0
+Yesh Mi SheOmer: 0
+Yesh Mi SheMattir (beginning): 0
+Yesh Mi SheMattir: 0
+Yesh Mattirim: 0
+Yesh Mi SheNoheg (beginning): 0
+Yesh Mi SheNoheg: 0
+Yesh Nogahim (beginning): 0
+Yesh Nogahim: 0
+Yesh Cholkim: 0
+Yesh Mi SheCholek: 0
+Yesh Mi SheKatav: 0
+Stam veYesh Mi SheOmer: 0
+Stam veYesh Mi SheCholek: 0
+Stam veYesh Cholkim: 0
+Tzarich Lizaher: 0
+yeshLizaher: 0
+Tov: 0
+beMedinosElu: 0
+yeshLeHistapek: 0
+rambam: 0
+rosh: 0
+Nachon: 0
+Ashkenaz: 0
+Sefarad: 0
+Tzorfat: 0
+Minhag: 0
+
+====Even HaEzer====
+Stam veYesh: 174
+Yesh veYesh (beginning, all): 0
+Yesh Omrim veYesh Omrim: 0
+Yesh Omrim veYesh MiSheOmer: 0
+yeshOmrimVeYeshCholek: 1
+VeYeshOmrim (beginning): 0
+Yesh Mi SheOmer (beginning): 0
+VeYesh Mi SheOmer (beginning): 0
+Yesh Mi SheOmer: 120
+Yesh Mi SheMattir (beginning): 0
+Yesh Mi SheMattir: 1
+Yesh Mattirim: 1
+Yesh Mi SheNoheg (beginning): 0
+Yesh Mi SheNoheg: 0
+Yesh Nogahim (beginning): 0
+Yesh Nogahim: 0
+Yesh Cholkim: 14
+Yesh Mi SheCholek: 6
+Yesh Mi SheKatav: 8
+Stam veYesh Mi SheOmer: 73
+Stam veYesh Mi SheCholek: 6
+Stam veYesh Cholkim: 4
+Tzarich Lizaher: 6
+yeshLizaher: 6
+Tov: 8
+beMedinosElu: 2
+yeshLeHistapek: 2
+rambam: 14
+rosh: 9
+Nachon: 0
+Ashkenaz: 1
+Sefarad: 0
+Tzorfat: 0
+Minhag: 21
+
+====Orach Chayim====
+Stam veYesh: 309
+Yesh veYesh (beginning, all): 0
+Yesh Omrim veYesh Omrim: 0
+Yesh Omrim veYesh MiSheOmer: 0
+yeshOmrimVeYeshCholek: 1
+VeYeshOmrim (beginning): 0
+Yesh Mi SheOmer (beginning): 0
+VeYesh Mi SheOmer (beginning): 0
+Yesh Mi SheOmer: 103
+Yesh Mi SheMattir (beginning): 0
+Yesh Mi SheMattir: 8
+Yesh Mattirim: 26
+Yesh Mi SheNoheg (beginning): 0
+Yesh Mi SheNoheg: 1
+Yesh Nogahim (beginning): 0
+Yesh Nogahim: 19
+Yesh Cholkim: 10
+Yesh Mi SheCholek: 3
+Yesh Mi SheKatav: 3
+Stam veYesh Mi SheOmer: 49
+Stam veYesh Mi SheCholek: 3
+Stam veYesh Cholkim: 7
+Tzarich Lizaher: 35
+yeshLizaher: 17
+Tov: 56
+beMedinosElu: 1
+yeshLeHistapek: 13
+rambam: 32
+rosh: 20
+Nachon: 35
+Ashkenaz: 4
+Sefarad: 7
+Tzorfat: 1
+Minhag: 40
+
+====Choshen Mishpat====
+Stam veYesh: 280
+Yesh veYesh (beginning, all): 0
+Yesh Omrim veYesh Omrim: 0
+Yesh Omrim veYesh MiSheOmer: 0
+yeshOmrimVeYeshCholek: 1
+VeYeshOmrim (beginning): 0
+Yesh Mi SheOmer (beginning): 0
+VeYesh Mi SheOmer (beginning): 0
+Yesh Mi SheOmer: 193
+Yesh Mi SheMattir (beginning): 0
+Yesh Mi SheMattir: 0
+Yesh Mattirim: 0
+Yesh Mi SheNoheg (beginning): 0
+Yesh Mi SheNoheg: 0
+Yesh Nogahim (beginning): 0
+Yesh Nogahim: 0
+Yesh Cholkim: 31
+Yesh Mi SheCholek: 13
+Yesh Mi SheKatav: 7
+Stam veYesh Mi SheOmer: 90
+Stam veYesh Mi SheCholek: 13
+Stam veYesh Cholkim: 11
+Tzarich Lizaher: 6
+yeshLizaher: 0
+Tov: 4
+beMedinosElu: 0
+yeshLeHistapek: 3
+rambam: 17
+rosh: 4
+Nachon: 2
+Ashkenaz: 0
+Sefarad: 1
+Tzorfat: 0
+Minhag: 61
+
+====Yoreh Deah====
+Stam veYesh: 0
+Yesh veYesh (beginning, all): 0
+Yesh Omrim veYesh Omrim: 0
+Yesh Omrim veYesh MiSheOmer: 0
+yeshOmrimVeYeshCholek: 1
+VeYeshOmrim (beginning): 0
+Yesh Mi SheOmer (beginning): 0
+VeYesh Mi SheOmer (beginning): 0
+Yesh Mi SheOmer: 0
+Yesh Mi SheMattir (beginning): 0
+Yesh Mi SheMattir: 0
+Yesh Mattirim: 0
+Yesh Mi SheNoheg (beginning): 0
+Yesh Mi SheNoheg: 0
+Yesh Nogahim (beginning): 0
+Yesh Nogahim: 0
+Yesh Cholkim: 0
+Yesh Mi SheCholek: 0
+Yesh Mi SheKatav: 0
+Stam veYesh Mi SheOmer: 0
+Stam veYesh Mi SheCholek: 0
+Stam veYesh Cholkim: 0
+Tzarich Lizaher: 0
+yeshLizaher: 0
+Tov: 0
+beMedinosElu: 0
+yeshLeHistapek: 0
+rambam: 0
+rosh: 0
+Nachon: 0
+Ashkenaz: 0
+Sefarad: 0
+Tzorfat: 0
+Minhag: 0
+
+====Even HaEzer====
+Stam veYesh: 174
+Yesh veYesh (beginning, all): 0
+Yesh Omrim veYesh Omrim: 0
+Yesh Omrim veYesh MiSheOmer: 0
+yeshOmrimVeYeshCholek: 1
+VeYeshOmrim (beginning): 0
+Yesh Mi SheOmer (beginning): 0
+VeYesh Mi SheOmer (beginning): 0
+Yesh Mi SheOmer: 120
+Yesh Mi SheMattir (beginning): 0
+Yesh Mi SheMattir: 1
+Yesh Mattirim: 1
+Yesh Mi SheNoheg (beginning): 0
+Yesh Mi SheNoheg: 0
+Yesh Nogahim (beginning): 0
+Yesh Nogahim: 0
+Yesh Cholkim: 14
+Yesh Mi SheCholek: 6
+Yesh Mi SheKatav: 8
+Stam veYesh Mi SheOmer: 73
+Stam veYesh Mi SheCholek: 6
+Stam veYesh Cholkim: 4
+Tzarich Lizaher: 6
+yeshLizaher: 6
+Tov: 8
+beMedinosElu: 2
+yeshLeHistapek: 2
+rambam: 14
+rosh: 9
+Nachon: 0
+Ashkenaz: 1
+Sefarad: 0
+Tzorfat: 0
+Minhag: 21
+
+====Choshen Mishpat====
+Stam veYesh: 280
+Yesh veYesh (beginning, all): 0
+Yesh Omrim veYesh Omrim: 0
+Yesh Omrim veYesh MiSheOmer: 0
+yeshOmrimVeYeshCholek: 1
+VeYeshOmrim (beginning): 0
+Yesh Mi SheOmer (beginning): 0
+VeYesh Mi SheOmer (beginning): 0
+Yesh Mi SheOmer: 193
+Yesh Mi SheMattir (beginning): 0
+Yesh Mi SheMattir: 0
+Yesh Mattirim: 0
+Yesh Mi SheNoheg (beginning): 0
+Yesh Mi SheNoheg: 0
+Yesh Nogahim (beginning): 0
+Yesh Nogahim: 0
+Yesh Cholkim: 31
+Yesh Mi SheCholek: 13
+Yesh Mi SheKatav: 7
+Stam veYesh Mi SheOmer: 90
+Stam veYesh Mi SheCholek: 13
+Stam veYesh Cholkim: 11
+Tzarich Lizaher: 6
+yeshLizaher: 0
+Tov: 4
+beMedinosElu: 0
+yeshLeHistapek: 3
+rambam: 17
+rosh: 4
+Nachon: 2
+Ashkenaz: 0
+Sefarad: 1
+Tzorfat: 0
+Minhag: 61
+
+====Orach Chayim====
+Stam veYesh: 309
+Yesh veYesh (beginning, all): 0
+Yesh Omrim veYesh Omrim: 0
+Yesh Omrim veYesh MiSheOmer: 0
+yeshOmrimVeYeshCholek: 1
+VeYeshOmrim (beginning): 0
+Yesh Mi SheOmer (beginning): 0
+VeYesh Mi SheOmer (beginning): 0
+Yesh Mi SheOmer: 103
+Yesh Mi SheMattir (beginning): 0
+Yesh Mi SheMattir: 8
+Yesh Mattirim: 26
+Yesh Mi SheNoheg (beginning): 0
+Yesh Mi SheNoheg: 1
+Yesh Nogahim (beginning): 0
+Yesh Nogahim: 19
+Yesh Cholkim: 10
+Yesh Mi SheCholek: 3
+Yesh Mi SheKatav: 3
+Stam veYesh Mi SheOmer: 49
+Stam veYesh Mi SheCholek: 3
+Stam veYesh Cholkim: 7
+Tzarich Lizaher: 35
+yeshLizaher: 17
+Tov: 56
+beMedinosElu: 1
+yeshLeHistapek: 13
+rambam: 32
+rosh: 20
+Nachon: 35
+Ashkenaz: 4
+Sefarad: 7
+Tzorfat: 1
+Minhag: 40
+
+====Yoreh Deah====
+Stam veYesh: 0
+Yesh veYesh (beginning, all): 0
+Yesh Omrim veYesh Omrim: 0
+Yesh Omrim veYesh MiSheOmer: 0
+yeshOmrimVeYeshCholek: 1
+VeYeshOmrim (beginning): 0
+Yesh Mi SheOmer (beginning): 0
+VeYesh Mi SheOmer (beginning): 0
+Yesh Mi SheOmer: 0
+Yesh Mi SheMattir (beginning): 0
+Yesh Mi SheMattir: 0
+Yesh Mattirim: 0
+Yesh Mi SheNoheg (beginning): 0
+Yesh Mi SheNoheg: 0
+Yesh Nogahim (beginning): 0
+Yesh Nogahim: 0
+Yesh Cholkim: 0
+Yesh Mi SheCholek: 0
+Yesh Mi SheKatav: 0
+Stam veYesh Mi SheOmer: 0
+Stam veYesh Mi SheCholek: 0
+Stam veYesh Cholkim: 0
+Tzarich Lizaher: 0
+yeshLizaher: 0
+Tov: 0
+beMedinosElu: 0
+yeshLeHistapek: 0
+rambam: 0
+rosh: 0
+Nachon: 0
+Ashkenaz: 0
+Sefarad: 0
+Tzorfat: 0
+Minhag: 0
+
+====Even HaEzer====
+Stam veYesh: 4
+Yesh veYesh (beginning, all): 0
+Yesh Omrim veYesh Omrim: 0
+Yesh Omrim veYesh MiSheOmer: 0
+yeshOmrimVeYeshCholek: 0
+VeYeshOmrim (beginning): 0
+Yesh Mi SheOmer (beginning): 0
+VeYesh Mi SheOmer (beginning): 0
+Yesh Mi SheOmer: 0
+Yesh Mi SheMattir (beginning): 0
+Yesh Mi SheMattir: 0
+Yesh Mattirim: 0
+Yesh Mi SheNoheg (beginning): 0
+Yesh Mi SheNoheg: 0
+Yesh Nogahim (beginning): 0
+Yesh Nogahim: 0
+Yesh Cholkim: 0
+Yesh Mi SheCholek: 0
+Yesh Mi SheKatav: 0
+Stam veYesh Mi SheOmer: 2
+Stam veYesh Mi SheCholek: 0
+Stam veYesh Cholkim: 1
+Tzarich Lizaher: 0
+yeshLizaher: 0
+Tov: 0
+beMedinosElu: 0
+yeshLeHistapek: 0
+rambam: 0
+rosh: 0
+Nachon: 0
+Ashkenaz: 0
+Sefarad: 0
+Tzorfat: 0
+Minhag: 0
+
+====Orach Chayim====
+Stam veYesh: 7
+Yesh veYesh (beginning, all): 0
+Yesh Omrim veYesh Omrim: 0
+Yesh Omrim veYesh MiSheOmer: 0
+yeshOmrimVeYeshCholek: 0
+VeYeshOmrim (beginning): 0
+Yesh Mi SheOmer (beginning): 0
+VeYesh Mi SheOmer (beginning): 0
+Yesh Mi SheOmer: 0
+Yesh Mi SheMattir (beginning): 0
+Yesh Mi SheMattir: 0
+Yesh Mattirim: 0
+Yesh Mi SheNoheg (beginning): 0
+Yesh Mi SheNoheg: 0
+Yesh Nogahim (beginning): 0
+Yesh Nogahim: 0
+Yesh Cholkim: 0
+Yesh Mi SheCholek: 0
+Yesh Mi SheKatav: 0
+Stam veYesh Mi SheOmer: 4
+Stam veYesh Mi SheCholek: 0
+Stam veYesh Cholkim: 0
+Tzarich Lizaher: 0
+yeshLizaher: 0
+Tov: 0
+beMedinosElu: 0
+yeshLeHistapek: 0
+rambam: 0
+rosh: 0
+Nachon: 0
+Ashkenaz: 0
+Sefarad: 0
+Tzorfat: 0
+Minhag: 0
+
+====Choshen Mishpat====
+Stam veYesh: 7
+Yesh veYesh (beginning, all): 0
+Yesh Omrim veYesh Omrim: 0
+Yesh Omrim veYesh MiSheOmer: 0
+yeshOmrimVeYeshCholek: 0
+VeYeshOmrim (beginning): 0
+Yesh Mi SheOmer (beginning): 0
+VeYesh Mi SheOmer (beginning): 0
+Yesh Mi SheOmer: 0
+Yesh Mi SheMattir (beginning): 0
+Yesh Mi SheMattir: 0
+Yesh Mattirim: 0
+Yesh Mi SheNoheg (beginning): 0
+Yesh Mi SheNoheg: 0
+Yesh Nogahim (beginning): 0
+Yesh Nogahim: 0
+Yesh Cholkim: 0
+Yesh Mi SheCholek: 0
+Yesh Mi SheKatav: 0
+Stam veYesh Mi SheOmer: 6
+Stam veYesh Mi SheCholek: 0
+Stam veYesh Cholkim: 0
+Tzarich Lizaher: 0
+yeshLizaher: 0
+Tov: 0
+beMedinosElu: 0
+yeshLeHistapek: 0
+rambam: 0
+rosh: 0
+Nachon: 0
+Ashkenaz: 0
+Sefarad: 0
+Tzorfat: 0
+Minhag: 0
+
+====Yoreh Deah====
+Stam veYesh: 0
+Yesh veYesh (beginning, all): 0
+Yesh Omrim veYesh Omrim: 0
+Yesh Omrim veYesh MiSheOmer: 0
+yeshOmrimVeYeshCholek: 0
+VeYeshOmrim (beginning): 0
+Yesh Mi SheOmer (beginning): 0
+VeYesh Mi SheOmer (beginning): 0
+Yesh Mi SheOmer: 0
+Yesh Mi SheMattir (beginning): 0
+Yesh Mi SheMattir: 0
+Yesh Mattirim: 0
+Yesh Mi SheNoheg (beginning): 0
+Yesh Mi SheNoheg: 0
+Yesh Nogahim (beginning): 0
+Yesh Nogahim: 0
+Yesh Cholkim: 0
+Yesh Mi SheCholek: 0
+Yesh Mi SheKatav: 0
+Stam veYesh Mi SheOmer: 0
+Stam veYesh Mi SheCholek: 0
+Stam veYesh Cholkim: 0
+Tzarich Lizaher: 0
+yeshLizaher: 0
+Tov: 0
+beMedinosElu: 0
+yeshLeHistapek: 0
+rambam: 0
+rosh: 0
+Nachon: 0
+Ashkenaz: 0
+Sefarad: 0
+Tzorfat: 0
+Minhag: 0
